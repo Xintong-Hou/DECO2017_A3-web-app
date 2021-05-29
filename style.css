@@ -3,6 +3,13 @@
     text-align: center;
 }
 
+body {
+    background-image: url("/images/bkg_pc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+
 .Rect_center {
     background: rgba(255, 255, 255, 0.664);
     width:500px;
