@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url("/images/bkg_pc.jpg");
+    background-image: url("images/bkg_pc.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
