@@ -2,3 +2,58 @@
     color:black;
     text-align: center;
 }
+
+.Rect_center {
+    background: rgba(255, 255, 255, 0.664);
+    width:500px;
+    height:400px;
+    margin: auto;
+  }
+  
+  .input_rect {
+    background: rgba(255, 255, 255);
+    width: 400px;
+    height: 50px;
+    margin: auto;
+  }
+  
+  .acc_p {
+    padding-left: 80px;
+    padding-top: 50px;
+  }
+  
+  .acc_in {
+    padding-left: 80px;
+  }
+  
+  .in-len {
+    width: 330px;
+    height: 40px;
+  }
+  
+  .acc_ps {
+    padding-left: 80px;
+    padding-top: 10px;
+  }
+  
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .but {
+    padding-left: 80px;
+    padding-top: 50px;
+  }
+  
+  .but_l {
+    margin-left: 100px;
+  }
